@@ -3,13 +3,20 @@ Bowen Cassel Code Rewrite and future projects
 
 Ctre Pro Swerve 
 https://github.com/REVrobotics/MAXSwerve-Java-Template/blob/main/src/main/java/frc/robot/subsystems/MAXSwerveModule.java
+https://github.com/CrossTheRoadElec/PhoenixPro-Examples/blob/main/java/PositionClosedLoop/src/main/java/frc/robot/Robot.java
+https://api.ctr-electronics.com/phoenixpro/release/java/com/ctre/phoenixpro/controls/package-summary.html
 
+https://www.vexrobotics.com/217-6515.html (40A)
+
+intergrate advantage kit
 https://github.com/Mechanical-Advantage/AdvantageKit
 
 use Leds
 https://github.dev/Mechanical-Advantage/RobotCode2023/blob/main/src/main/java/org/littletonrobotics/frc2023/RobotContainer.java
 
 use custom Gyro 
+https://github.wpilib.org/allwpilib/docs/release/java/edu/wpi/first/wpilibj/SerialPort.html#read(int)
+https://www.baeldung.com/java-byte-array-to-number
 
 Seperate subsystems better and intergrate better april tag
 
@@ -23,4 +30,5 @@ use git hub stratagy (On phone)
 
 create better docs
 
+hard buttons on robot for reset gyro and set coast/break.
 
